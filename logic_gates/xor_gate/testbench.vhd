@@ -1,4 +1,4 @@
--- Testbench for OR gate
+-- Testbench for XOR gate
 
 -- Import std_logic from IEEE library
 library IEEE;
